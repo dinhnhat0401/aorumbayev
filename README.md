@@ -1,7 +1,10 @@
-<h1 align="center">About me</h1>
+![Logo](https://user-images.githubusercontent.com/7698600/89585035-6fe36680-d83d-11ea-9c35-c29610ee3fcc.png)
+
 <h3 align="center">"All you need is README.md" (c)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aorumbayev" alt="aorumbayev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aorumbayev" alt="aorumbayev" /> </p>
+
+---
 
 - 🔭 I’m currently working on [IBM Watson AIOps](https://www.ibm.com/products/watson-aiops)
 
