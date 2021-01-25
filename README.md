@@ -2,7 +2,10 @@
 
 <h3 align="center">"All you need is README.md" (c)</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aorumbayev" alt="aorumbayev" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=aorumbayev" alt="aorumbayev" /> 
+  <a href="https://sourcerer.io/aorumbayev"><img src="https://img.shields.io/badge/Sourcerer.io-Profile-orange.svg" alt=""></a>
+</p>
 
 ---
 
