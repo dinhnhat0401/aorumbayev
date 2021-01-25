@@ -39,7 +39,7 @@
 <br/> -->
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aorumbayev&show_icons=true" alt="aorumbayev" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aorumbayev&show_icons=true&theme=dracula" alt="aorumbayev" />
 </p>
 
 <p align="center">
