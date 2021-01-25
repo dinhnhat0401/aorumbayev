@@ -1,4 +1,4 @@
-![Logo](https://user-images.githubusercontent.com/7698600/89585035-6fe36680-d83d-11ea-9c35-c29610ee3fcc.png)
+![Logo](https://user-images.githubusercontent.com/7698600/105756187-92cd1880-5f4c-11eb-8509-cbd578e37035.png)
 
 <h3 align="center">"All you need is README.md" (c)</h3>
 
