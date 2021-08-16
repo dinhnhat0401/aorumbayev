@@ -9,11 +9,11 @@
 
 ---
 
-- 💻  I’m currently working on backend infrastructure for [Skype](http://skype.com) at Microsoft
+- 💻  I’m currently working on backend infrastructure for [Teams & Skype](https://microsoft.com) at Microsoft
 
 - 🔭 I previously worked on [Watson AIOps](https://www.ibm.com/products/watson-aiops) at IBM
 
-- 🌱 I’m currently getting comfortable with **C#**
+- 🌱 In my free time I play around with blockchain development on [Algorand](https://www.algorand.com/)
 
 <!-- - 👯 I’m looking to collaborate on [Khagan](https://github.com/aorumbayev/khagan) -->
 
@@ -21,7 +21,7 @@
 
 - 📝 I occasionally write articles on [https://medium.com/@a_orumbayev](https://medium.com/@a_orumbayev)
 
-- 💬 Ask me about **microservices, iOS development, semantic web or software systems design**
+- 💬 Ask me about **microservices, iOS development, semantic web or software systems design, algorand development**
 
 - 📫 How to reach me **aorumbayev at pm . me**
 
