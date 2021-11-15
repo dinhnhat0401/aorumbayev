@@ -21,7 +21,7 @@
 
 - 📝 I occasionally write articles on [https://medium.com/@a_orumbayev](https://medium.com/@a_orumbayev)
 
-- 💬 Ask me about **microservices, iOS development, semantic web or software systems design, algorand development**
+- 💬 Ask me about **microservices & cloud, iOS development, semantic web, software systems design or algorand development**
 
 - 📫 How to reach me **aorumbayev at pm . me**
 
